@@ -171,7 +171,7 @@ A Plataforma EAD da LLED será um sistema interno inovador para capacitar os fun
 
 
 
-<h1>Link do Figma</h1>
+<h1>Link para os Prototipos</h1>
 <p>
     https://www.figma.com/proto/D0r2imlF6zXiGQhT1stnL2/Untitled?node-id=4-103&node-type=canvas&t=DCFvosyUlZ3ylEzY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 </p>
